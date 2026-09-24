@@ -1,0 +1,29 @@
+{
+  "alunos": [
+    {
+      "id": "1",
+      "nome": "Joao Silva",
+      "email": "joao@email.com",
+      "cpf": "111.222.333-44",
+      "matricula": "2023001"
+    },
+    {
+      "nome": "Clícya Bianca Amorim Xavier",
+      "email": "clicya.amorim@escolar.ifrn.edu.br",
+      "cpf": "00000000004",
+      "cidade": "Antonio Martins",
+      "id": "E2VpdEdmGX0"
+    }
+  ],
+  "professores": [
+    {
+      "nome": "Carlos Oliveira",
+      "email": "carlos@escola.com",
+      "cpf": "12345678910",
+      "disciplina": "PPI",
+      "data_admissao": "1981-04-03",
+      "id": "R05FxSFEzQ8"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
